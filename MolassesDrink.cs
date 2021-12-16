@@ -8,7 +8,7 @@ namespace BadGame
 {
     public class MolassesDrink : Utility
     {
-        public ShittyBooze()
+        public MolassesDrink()
         {
             name = "Family Friendly Molasses Drink";
             effect = "Allows you attack faster, and therefore do more damage, but you become far easier to hit and more vulerable.";

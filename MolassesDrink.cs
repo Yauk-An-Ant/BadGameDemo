@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BadGame
 {
-    public class ShittyBooze : Utility
+    public class MolassesDrink : Utility
     {
         public ShittyBooze()
         {

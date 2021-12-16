@@ -56,17 +56,17 @@ namespace BadGame
                 Painkiller pain1 = new Painkiller();
                 Painkiller pain2 = new Painkiller();
                 Painkiller pain3 = new Painkiller();
-                ShittyBooze booze1 = new ShittyBooze();
-                ShittyBooze booze2 = new ShittyBooze();
-                ShittyBooze booze3 = new ShittyBooze();
+                MolassesDrink m1 = new MolassesDrink();
+                MolassesDrink m2 = new MolassesDrink();
+                MolassesDrink m3 = new MolassesDrink();
                 this.inventory.weapons.Add(weapon);
                 this.inventory.armor.Add(armor);
                 this.inventory.utilities.Add(pain1);
                 this.inventory.utilities.Add(pain2);
                 this.inventory.utilities.Add(pain3);
-                this.inventory.utilities.Add(booze1);
-                this.inventory.utilities.Add(booze2);
-                this.inventory.utilities.Add(booze3);
+                this.inventory.utilities.Add(m1);
+                this.inventory.utilities.Add(m2);
+                this.inventory.utilities.Add(m3);
             }
         }
     } 
